@@ -7,3 +7,5 @@ We choose to use SqueezeNet for efficiency, since the pre-trained model is very 
 The SqueezeNet is described in squeezenet.py, with weights in sqz_full.mat. 
 
 nst_utils.py describes some utility functions we need in transfer, and is adopted from CS230.
+
+reference: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
