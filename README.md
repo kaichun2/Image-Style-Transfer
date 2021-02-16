@@ -1,4 +1,4 @@
-# CS230 project
+# Image Style Transfer
 
 An implementation of style transfer in TensorFlow.
 
